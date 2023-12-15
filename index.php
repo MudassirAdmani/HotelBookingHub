@@ -29,7 +29,7 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link me-2 active" aria-current="page" href="#">Home</a>
+                        <a class="nav-link me-2" aria-current="page" href="#">Home</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link me-2" href="#">Rooms</a>
@@ -45,7 +45,7 @@
                     </li>
                 </ul>
                 <div class="d-flex">
-                    <button type="button" class="btn btn-outline-dark shadow-none me-lg-2 me-3" data-bs-toggle="modal" data-bs-target="#loginModal">
+                    <button type="button" class="btn btn-outline-orange shadow-none me-lg-2 me-3" data-bs-toggle="modal" data-bs-target="#loginModal">
                         Login
                     </button>
                 </div>
@@ -67,7 +67,15 @@
                     <div class="modal-body">
                         <div class="mb-3">
                             <label class="form-label">Email address</label>
-                            <input type="email" class="form-control">
+                            <input type="email" class="form-control shadow-none">
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">Password</label>
+                            <input type="password" class="form-control shadow-none">
+                        </div>
+                        <div class="d-flex align-items-center justify-content-between">
+                            <button type="submit" class="py-1 px-3 border-0 rounded-1 btn-orange text-white">Login</button>
+                            <a href="javascript: void(0)">Forgot Password?</a>
                         </div>
                     </div>
                 </form>

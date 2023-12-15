@@ -7,6 +7,34 @@
 .h-font {
   font-family: "Merienda", cursive;
 }
+.nav-link {
+  transition: 0.3s;
+}
+.nav-link::after {
+  content: "";
+  height: 2px;
+  width: 0;
+  background-color: #de9549;
+  display: block;
+  transition: 0.3s;
+}
+.nav-link:hover::after {
+  width: 100%;
+}
+.btn-outline-orange {
+  border: 1px solid #de9549;
+}
+.btn-outline-orange:hover {
+  background-color: #de9549;
+  color: #fff;
+}
+.btn-orange {
+  background-color: #de9549;
+  transition: 0.3s;
+}
+.btn-orange:hover {
+  background-color: #cb6c2b;
+}
 @media (max-width: 379px) {
   .navbar-brand .NavBrand {
     display: none;
