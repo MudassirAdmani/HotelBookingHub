@@ -7,3 +7,8 @@
 .h-font {
   font-family: "Merienda", cursive;
 }
+@media (max-width: 379px) {
+  .navbar-brand .NavBrand {
+    display: none;
+  }
+}
