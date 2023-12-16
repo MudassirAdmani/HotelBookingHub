@@ -1,3 +1,4 @@
+/* Universal */
 * {
   margin: 0;
   padding: 0;
@@ -7,6 +8,7 @@
 .h-font {
   font-family: "Merienda", cursive;
 }
+/* Navbar */
 .nav-link {
   transition: 0.3s;
 }
@@ -20,13 +22,6 @@
 }
 .nav-link:hover::after {
   width: 100%;
-}
-.btn-outline-orange {
-  border: 1px solid #de9549;
-}
-.btn-outline-orange:hover {
-  background-color: #de9549;
-  color: #fff;
 }
 .btn-orange {
   background-color: #de9549;
