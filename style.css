@@ -12,6 +12,9 @@
 .nav-link {
   transition: 0.3s;
 }
+.nav-link:hover {
+  color: #000;
+}
 .nav-link::after {
   content: "";
   height: 2px;
@@ -34,4 +37,10 @@
   .navbar-brand .NavBrand {
     display: none;
   }
+}
+/* Register */
+.registerModal {
+  background-image: url("images/1.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
 }
