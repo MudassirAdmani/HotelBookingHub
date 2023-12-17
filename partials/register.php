@@ -58,11 +58,11 @@
                                 <input type="password" placeholder="Confirm Password" class="form-control shadow-none">
                             </div>
                         </div>
-                        <div class="row">
-                            <div class="col-md-6 mb-3">
-                                <input type="submit" value="Register" class="form-control text-white border-0 btn-orange shadow-none">
+                        <div class="d-flex align-items-center justify-content-start">
+                            <div class="mb-3">
+                                <input type="submit" value="Register" class="py-1 px-3 border-0 rounded-1 btn-orange text-white">
                             </div>
-                            <div class="col-md-6 mb-3">
+                            <div class="mb-3 text-end">
                                 <a href="javascript: void(0)" class="form-control bg-transparent text-white border-0 text-decoration-none shadow-none">Already Have An Account?</a>
                             </div>
                         </div>
