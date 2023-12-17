@@ -2,65 +2,70 @@
     <div class="modal-dialog modal-lg">
         <div class="modal-content registerModal">
             <form>
-                <div class="modal-header border-0">
-                    <h5 class="modal-title d-flex align-items-center">
+                <div class="modal-header">
+                    <h5 class="modal-title text-white d-flex align-items-center">
                         <i class="bi bi-person-lines-fill fs-3 me-2"></i>
                         User Registration
                     </h5>
-                    <button type="reset" class="btn-close shadow-none" data-bs-dismiss="modal" aria-label="Close"></button>
+                    <button type="reset" class="btn-close btn-close-white shadow-none" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
                     <div class="container-fluid">
                         <div class="row">
                             <div class="col-md-6 mb-3">
-                                <label class="form-label">Name</label>
-                                <input type="text" class="bg-transparent border-dark form-control shadow-none">
+                                <label class="form-label text-white">Name</label>
+                                <input type="text" placeholder="Enter Name" class="form-control shadow-none">
                             </div>
                             <div class="col-md-6 mb-3">
-                                <label class="form-label">Email</label>
-                                <input type="email" class="bg-transparent border-dark form-control shadow-none">
+                                <label class="form-label text-white">Email</label>
+                                <input type="email" placeholder="Enter Email" class="form-control shadow-none">
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-md-6 mb-3">
-                                <label class="form-label">Phone</label>
-                                <input type="number" class="bg-transparent border-dark form-control shadow-none">
+                                <label class="form-label text-white">Phone</label>
+                                <input type="number" placeholder="Enter Phone" class="form-control shadow-none">
                             </div>
                             <div class="col-md-6 mb-3">
-                                <label class="form-label">Image</label>
-                                <input type="file" class="bg-transparent border-dark form-control shadow-none">
+                                <label class="form-label text-white">Image</label>
+                                <input type="file" class="form-control shadow-none">
                             </div>
                             <div class="col-md-12 mb-3">
-                                <label class="form-label">Address</label>
-                                <textarea rows="1" class="bg-transparent border-dark form-control shadow-none"></textarea>
+                                <label class="form-label text-white">Address</label>
+                                <textarea rows="1" placeholder="Enter Address" class="form-control shadow-none"></textarea>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-md-6 mb-3">
-                                <label class="form-label">Gender</label>
-                                <select class="bg-transparent border-dark form-control shadow-none">
+                                <label class="form-label text-white">Gender</label>
+                                <select class="form-control shadow-none">
                                     <option value="male">Male</option>
                                     <option value="female">Female</option>
                                 </select>
                             </div>
                             <div class="col-md-6 mb-3">
-                                <label class="form-label">Date of Birth</label>
-                                <input type="date" class="bg-transparent border-dark form-control shadow-none">
+                                <label class="form-label text-white">Date of Birth</label>
+                                <input type="date" class="form-control shadow-none">
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-md-6 mb-3">
-                                <label class="form-label">Password</label>
-                                <input type="password" class="bg-transparent border-dark form-control shadow-none">
+                                <label class="form-label text-white">Password</label>
+                                <input type="password" placeholder="Enter Password" class="form-control shadow-none">
                             </div>
                             <div class="col-md-6 mb-3">
-                                <label class="form-label">Confirm Password</label>
-                                <input type="password" class="bg-transparent border-dark form-control shadow-none">
+                                <label class="form-label text-white">Confirm Password</label>
+                                <input type="password" placeholder="Confirm Password" class="form-control shadow-none">
                             </div>
                         </div>
-                    </div>
-                    <div class="my-1">
-                        <button type="submit" class="py-1 px-3 border-0 rounded-1 form-control  btn-orange text-white">Register</button>
+                        <div class="row">
+                            <div class="col-md-6 mb-3">
+                                <input type="submit" value="Register" class="form-control text-white border-0 btn-orange shadow-none">
+                            </div>
+                            <div class="col-md-6 mb-3">
+                                <a href="javascript: void(0)" class="form-control bg-transparent text-white border-0 text-decoration-none shadow-none">Already Have An Account?</a>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </form>

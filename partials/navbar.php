@@ -19,10 +19,10 @@
                     <a class="nav-link me-2" href="#">Facilities</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link me-2" href="#">Contact Us</a>
+                    <a class="nav-link me-2" href="#">Contact</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link me-2" href="#">About Us</a>
+                    <a class="nav-link me-2" href="#">About</a>
                 </li>
             </ul>
             <div class="d-flex">
