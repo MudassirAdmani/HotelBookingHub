@@ -20,27 +20,16 @@
 <body class="bg-light">
     <!-- Navbar -->
     <?php
-    include('./partials/navbar.php');
+    include('./partials/navbar.php')
     ?>
     <!-- Carousel -->
-    <div class="container-fluid px-lg-4 mt-4">
-        <div class="swiper mySwiper">
-            <div class="swiper-wrapper">
-                <div class="swiper-slide">
-                    <img src="images/carousel-6.png" class="w-100 d-block" />
-                </div>
-                <div class="swiper-slide">
-                    <img src="images/carousel-7.png" class="w-100 d-block img-fluid" />
-                </div>
-                <div class="swiper-slide">
-                    <img src="images/carousel-8.png" class="w-100 d-block img-fluid" />
-                </div>
-                <div class="swiper-slide">
-                    <img src="images/carousel-9.png" class="w-100 d-block img-fluid" />
-                </div>
-            </div>
-        </div>
-    </div>
+    <?php
+    include('./partials/carousel.php')
+    ?>
+    <!-- Availability Form -->
+    <?php
+    include('./partials/availability.php')
+    ?>
     <!-- Bootstrap -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/js/bootstrap.bundle.min.js" integrity="sha512-X/YkDZyjTf4wyc2Vy16YGCPHwAY8rZJY+POgokZjQB2mhIRFJCckEGc6YyX9eNsPfn0PzThEuNs+uaomE5CO6A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <!-- Swiper -->
