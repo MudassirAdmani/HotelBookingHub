@@ -1,4 +1,4 @@
-<div class="container">
+<div class="container AvailabilityForm">
     <div class="row">
         <div class="col-lg-12 bg-white shadow p-4 rounded">
             <form>

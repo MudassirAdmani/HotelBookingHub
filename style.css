@@ -38,7 +38,7 @@
     display: none;
   }
 }
-/* Register */
+/* Register / Login */
 .registerModal,
 .loginModal {
   background-image: url("images/2.png");
@@ -50,4 +50,15 @@ input::-webkit-inner-spin-button {
   -webkit-appearance: none;
   margin: 0;
 }
-/* Carousel */
+/* Availability Form */
+.AvailabilityForm {
+  margin-top: -50px;
+  z-index: 2;
+  position: relative;
+}
+@media (max-width: 575px) {
+  .AvailabilityForm {
+    margin-top: 25px;
+    padding: 0 35px;
+  }
+}
