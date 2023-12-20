@@ -161,7 +161,7 @@
             </div>
         </div>
         <div class="col-lg-12 text-center mt-4">
-            <a href="" class="py-1 text-decoration-none px-3 border-0 rounded-1 btn-orange text-white">See More >>></a>
+            <a href="" class="py-1 text-decoration-none px-3 border-0 rounded-1 btn-orange text-white">More Rooms</a>
         </div>
     </div>
 </div>
