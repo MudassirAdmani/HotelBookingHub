@@ -1,5 +1,5 @@
 <div class="container-fluid px-lg-4 mt-4">
-    <div class="swiper mySwiper">
+    <div class="swiper mainSwiper">
         <div class="swiper-wrapper">
             <div class="swiper-slide">
                 <img src="images/carousel-6.png" class="w-100 d-block" />
