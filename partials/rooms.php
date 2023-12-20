@@ -2,11 +2,26 @@
 <div class="container">
     <div class="row">
         <div class="col-lg-4 col-md-6 my-3">
-            <div class="card" style="width: 18rem;">
-                <img src="" class="card-img-top" alt="...">
+            <div class="card border-0 shadow" style="max-width: 350px; margin: auto;">
+                <img src="./images/room-1.png" class="card-img-top" alt="room-1-image">
                 <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <h5>Simple Room</h5>
+                    <h6 class="mb-4">200$ per night</h6>
+                    <div class="features mb-4">
+                        <h6 class="mb-1">Features</h6>
+                        <span class="badge rounded-pill bg-light text-dark text-wrap">
+                            2 Rooms
+                        </span>
+                        <span class="badge rounded-pill bg-light text-dark text-wrap">
+                            1 Bathroom
+                        </span>
+                        <span class="badge rounded-pill bg-light text-dark text-wrap">
+                            1 Balcony
+                        </span>
+                        <span class="badge rounded-pill bg-light text-dark text-wrap">
+                            Breakfast
+                        </span>
+                    </div>
                     <a href="#" class="btn btn-primary">Go somewhere</a>
                 </div>
             </div>
