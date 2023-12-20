@@ -8,6 +8,20 @@
 .h-font {
   font-family: "Merienda", cursive;
 }
+.btn-orange {
+  background-color: #de9549;
+  transition: 0.3s;
+}
+.btn-orange:hover {
+  background-color: #cb6c2b;
+}
+.btn-purple {
+  background-color: #B76282;
+  transition: 0.3s;
+}
+.btn-purple:hover {
+  background-color: #96405e;
+}
 /* Navbar */
 .nav-link {
   transition: 0.3s;
@@ -25,13 +39,6 @@
 }
 .nav-link:hover::after {
   width: 100%;
-}
-.btn-orange {
-  background-color: #de9549;
-  transition: 0.3s;
-}
-.btn-orange:hover {
-  background-color: #cb6c2b;
 }
 @media (max-width: 379px) {
   .navbar-brand .NavBrand {
