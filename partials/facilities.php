@@ -14,12 +14,12 @@
             <h5>Hygiene Kit</h5>
         </div>
         <div class="col-md-2 text-center bg-white rounded shadow py-4 my-3">
-            <img src="./images/wifi-1.png" alt="">
-            <h5>Wifi</h5>
+            <img src="./images/sports-1.png" alt="">
+            <h5>Sports</h5>
         </div>
         <div class="col-md-2 text-center bg-white rounded shadow py-4 my-3">
-            <img src="./images/wifi-1.png" alt="">
-            <h5>Wifi</h5>
+            <img src="./images/mic-1.png" alt="">
+            <h5>Party</h5>
         </div>
         <div class="col-lg-12 text-center mt-4">
             <a href="" class="py-1 text-decoration-none px-3 border-0 rounded-1 btn-orange text-white">More Facilities</a>

@@ -17,4 +17,8 @@ var swiper2 = new Swiper(".testimonialSwiper", {
     shadowOffset: 20,
     shadowScale: 0.94,
   },
+  autoplay: {
+    delay: 3500,
+    disableOnInteraction: false,
+  },
 });
