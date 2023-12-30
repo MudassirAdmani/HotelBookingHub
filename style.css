@@ -16,7 +16,7 @@
   background-color: #cb6c2b;
 }
 .btn-purple {
-  background-color: #B76282;
+  background-color: #b76282;
   transition: 0.3s;
 }
 .btn-purple:hover {
@@ -48,7 +48,7 @@
 /* Register / Login */
 .registerModal,
 .loginModal {
-  background-image: url("images/2.png");
+  background-image: url("./images/2.png");
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
@@ -68,4 +68,11 @@ input::-webkit-inner-spin-button {
     margin-top: 25px;
     padding: 0 35px;
   }
+}
+/* Facilities */
+.facilityCard {
+  transition: 0.3s;
+}
+.facilityCard:hover {
+  margin-top: -10px;
 }
