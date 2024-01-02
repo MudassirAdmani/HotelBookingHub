@@ -64,7 +64,10 @@
     <!-- Swiper -->
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
     <!-- JS -->
-    <script src="script.js"></script>
+    <!-- Carousel -->
+    <script src="./js/carousel.js"></script>
+    <!-- Testimonial -->
+    <script src="./js/testimonial.js"></script>
 </body>
 
 </html>

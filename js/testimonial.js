@@ -1,12 +1,4 @@
-var swiper = new Swiper(".mainSwiper", {
-  spaceBetween: 30,
-  effect: "fade",
-  loop: true,
-  autoplay: {
-    delay: 3500,
-    disableOnInteraction: false,
-  },
-});
+// Testimonial
 var swiper2 = new Swiper(".testimonialSwiper", {
   effect: "cube",
   grabCursor: true,
