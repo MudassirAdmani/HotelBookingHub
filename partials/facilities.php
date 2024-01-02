@@ -21,8 +21,9 @@
             <img src="./images/mic-1.png" alt="">
             <h5>Party</h5>
         </div>
-        <div class="col-lg-12 text-center mt-4">
-            <a href="" class="py-1 text-decoration-none px-3 border-0 rounded-1 btn-orange text-white">More Facilities</a>
+        <div class="col-lg-12 text-center mt-5">
+            <a href="" class="py-1 text-decoration-none px-3 border-0 rounded-1 btn-orange text-white">More
+                Facilities</a>
         </div>
     </div>
 </div>
