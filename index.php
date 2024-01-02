@@ -20,31 +20,35 @@
 <body class="bg-light">
     <!-- Navbar -->
     <?php
-    include('./partials/navbar.php')
+    include('./partials/navbar.php');
     ?>
     <!-- Carousel -->
     <?php
-    include('./partials/carousel.php')
+    include('./partials/carousel.php');
     ?>
     <!-- Availability Form -->
     <?php
-    include('./partials/availability.php')
+    include('./partials/availability.php');
     ?>
     <!-- Our Rooms -->
     <?php
-    include('./partials/rooms.php')
+    include('./partials/rooms.php');
     ?>
     <!-- Our Facilities -->
     <?php
-    include('./partials/facilities.php')
+    include('./partials/facilities.php');
     ?>
     <!-- Our Testimonials -->
     <?php
-    include('./partials/testimonials.php')
+    include('./partials/testimonials.php');
     ?>
     <!-- Reach Us -->
     <?php
-    include('./partials/reach.php')
+    include('./partials/reach.php');
+    ?>
+    <!-- Footer -->
+    <?php
+    include('./partials/footer.php');
     ?>
     <!-- Bootstrap -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/js/bootstrap.bundle.min.js" integrity="sha512-X/YkDZyjTf4wyc2Vy16YGCPHwAY8rZJY+POgokZjQB2mhIRFJCckEGc6YyX9eNsPfn0PzThEuNs+uaomE5CO6A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
