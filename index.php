@@ -14,7 +14,16 @@
     <!-- Swiper -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
     <!-- CSS -->
-    <link rel="stylesheet" href="style.css">
+    <!-- Master -->
+    <link rel="stylesheet" href="./css/style.css">
+    <!-- Navbar -->
+    <link rel="stylesheet" href="./css/navbar.css">
+    <!-- register-login -->
+    <link rel="stylesheet" href="./css/register-login.css">
+    <!-- Availability -->
+    <link rel="stylesheet" href="./css/availability.css">
+    <!-- Facility -->
+    <link rel="stylesheet" href="./css/facility.css">
 </head>
 
 <body class="bg-light">

@@ -1,0 +1,23 @@
+/* Navbar */
+.nav-link {
+  transition: 0.3s;
+}
+.nav-link:hover {
+  color: #000;
+}
+.nav-link::after {
+  content: "";
+  height: 2px;
+  width: 0;
+  background-color: #de9549;
+  display: block;
+  transition: 0.3s;
+}
+.nav-link:hover::after {
+  width: 100%;
+}
+@media (max-width: 379px) {
+  .navbar-brand .NavBrand {
+    display: none;
+  }
+}

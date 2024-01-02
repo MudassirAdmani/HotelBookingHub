@@ -1,0 +1,27 @@
+/* Universal */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+.h-font {
+  font-family: "Merienda", cursive;
+}
+.btn-orange {
+  background-color: #de9549;
+  transition: 0.3s;
+}
+.btn-orange:hover {
+  background-color: #cb6c2b;
+}
+.btn-purple {
+  background-color: #b76282;
+  transition: 0.3s;
+}
+.btn-purple:hover {
+  background-color: #96405e;
+}
+.text-purple {
+  color: #b76282;
+}
