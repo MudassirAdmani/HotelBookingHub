@@ -18,6 +18,8 @@
     <link rel="stylesheet" href="./css/style.css">
     <!-- Navbar -->
     <link rel="stylesheet" href="./css/navbar.css">
+    <!-- facility -->
+    <link rel="stylesheet" href="./css/facility.css">
 </head>
 
 <body class="bg-light">
@@ -36,13 +38,147 @@
     </div>
     <div class="container">
         <div class="row">
-            <div class="col-lg-4 col-md-6 mb-5 px-4">
-                <div class="bg-white rounded shadow p-4 border-top border-4 border-dark">
-                    <img src="./images/wifi-1.png">
-                    <h5>Wifi</h5>
-                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                        Corrupti dolore similique dolorum necessitatibus, natus eum esse!
+            <div class="col-lg-4 col-md-6 mb-3">
+                <div class="bg-white rounded shadow border-orange facility">
+                    <div class="d-flex align-items-center" style="margin-top: -15px;">
+                        <img src="./images/wifi-1.png" alt="">
+                        <h5 class="m-0">Wifi</h5>
+                    </div>
+                    <p class="mx-3 pb-3" style="margin-top: -15px;">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                        Reprehenderit mollitia provident doloribus voluptates, quasi id!
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-3">
+                <div class="bg-white rounded shadow border-orange facility">
+                    <div class="d-flex align-items-center" style="margin-top: -15px;">
+                        <img src="./images/wifi-1.png" alt="">
+                        <h5 class="m-0">Wifi</h5>
+                    </div>
+                    <p class="mx-3 pb-3" style="margin-top: -15px;">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                        Reprehenderit mollitia provident doloribus voluptates, quasi id!
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-3">
+                <div class="bg-white rounded shadow border-orange facility">
+                    <div class="d-flex align-items-center" style="margin-top: -15px;">
+                        <img src="./images/wifi-1.png" alt="">
+                        <h5 class="m-0">Wifi</h5>
+                    </div>
+                    <p class="mx-3 pb-3" style="margin-top: -15px;">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                        Reprehenderit mollitia provident doloribus voluptates, quasi id!
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-3">
+                <div class="bg-white rounded shadow border-orange facility">
+                    <div class="d-flex align-items-center" style="margin-top: -15px;">
+                        <img src="./images/wifi-1.png" alt="">
+                        <h5 class="m-0">Wifi</h5>
+                    </div>
+                    <p class="mx-3 pb-3" style="margin-top: -15px;">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                        Reprehenderit mollitia provident doloribus voluptates, quasi id!
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-3">
+                <div class="bg-white rounded shadow border-orange facility">
+                    <div class="d-flex align-items-center" style="margin-top: -15px;">
+                        <img src="./images/wifi-1.png" alt="">
+                        <h5 class="m-0">Wifi</h5>
+                    </div>
+                    <p class="mx-3 pb-3" style="margin-top: -15px;">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                        Reprehenderit mollitia provident doloribus voluptates, quasi id!
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-3">
+                <div class="bg-white rounded shadow border-orange facility">
+                    <div class="d-flex align-items-center" style="margin-top: -15px;">
+                        <img src="./images/wifi-1.png" alt="">
+                        <h5 class="m-0">Wifi</h5>
+                    </div>
+                    <p class="mx-3 pb-3" style="margin-top: -15px;">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                        Reprehenderit mollitia provident doloribus voluptates, quasi id!
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-3">
+                <div class="bg-white rounded shadow border-orange facility">
+                    <div class="d-flex align-items-center" style="margin-top: -15px;">
+                        <img src="./images/wifi-1.png" alt="">
+                        <h5 class="m-0">Wifi</h5>
+                    </div>
+                    <p class="mx-3 pb-3" style="margin-top: -15px;">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                        Reprehenderit mollitia provident doloribus voluptates, quasi id!
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-3">
+                <div class="bg-white rounded shadow border-orange facility">
+                    <div class="d-flex align-items-center" style="margin-top: -15px;">
+                        <img src="./images/wifi-1.png" alt="">
+                        <h5 class="m-0">Wifi</h5>
+                    </div>
+                    <p class="mx-3 pb-3" style="margin-top: -15px;">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                        Reprehenderit mollitia provident doloribus voluptates, quasi id!
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-3">
+                <div class="bg-white rounded shadow border-orange facility">
+                    <div class="d-flex align-items-center" style="margin-top: -15px;">
+                        <img src="./images/wifi-1.png" alt="">
+                        <h5 class="m-0">Wifi</h5>
+                    </div>
+                    <p class="mx-3 pb-3" style="margin-top: -15px;">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                        Reprehenderit mollitia provident doloribus voluptates, quasi id!
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-3">
+                <div class="bg-white rounded shadow border-orange facility">
+                    <div class="d-flex align-items-center" style="margin-top: -15px;">
+                        <img src="./images/wifi-1.png" alt="">
+                        <h5 class="m-0">Wifi</h5>
+                    </div>
+                    <p class="mx-3 pb-3" style="margin-top: -15px;">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                        Reprehenderit mollitia provident doloribus voluptates, quasi id!
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-3">
+                <div class="bg-white rounded shadow border-orange facility">
+                    <div class="d-flex align-items-center" style="margin-top: -15px;">
+                        <img src="./images/wifi-1.png" alt="">
+                        <h5 class="m-0">Wifi</h5>
+                    </div>
+                    <p class="mx-3 pb-3" style="margin-top: -15px;">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                        Reprehenderit mollitia provident doloribus voluptates, quasi id!
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-3">
+                <div class="bg-white rounded shadow border-orange facility">
+                    <div class="d-flex align-items-center" style="margin-top: -15px;">
+                        <img src="./images/wifi-1.png" alt="">
+                        <h5 class="m-0">Wifi</h5>
+                    </div>
+                    <p class="mx-3 pb-3" style="margin-top: -15px;">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                        Reprehenderit mollitia provident doloribus voluptates, quasi id!
                     </p>
                 </div>
             </div>
