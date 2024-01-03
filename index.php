@@ -18,8 +18,6 @@
     <link rel="stylesheet" href="./css/style.css">
     <!-- Navbar -->
     <link rel="stylesheet" href="./css/navbar.css">
-    <!-- register-login -->
-    <link rel="stylesheet" href="./css/register-login.css">
     <!-- Availability -->
     <link rel="stylesheet" href="./css/availability.css">
     <!-- Facility -->
