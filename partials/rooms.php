@@ -1,4 +1,5 @@
-<h2 class="my-4 pt-4 text-center fw-bold h-font">Our Rooms</h2>
+<h2 class="mt-2 pt-4 text-center fw-bold h-font">Our Rooms</h2>
+<div class="h-line mb-2 btn-purple"></div>
 <div class="container">
     <div class="row">
         <div class="col-lg-4 col-md-6 my-3">

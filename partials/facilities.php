@@ -1,4 +1,5 @@
-<h2 class="my-4 pt-4 text-center fw-bold h-font">Our Facilities</h2>
+<h2 class="mt-2 pt-4 text-center fw-bold h-font">Our Facilities</h2>
+<div class="h-line mb-4 btn-purple"></div>
 <div class="container">
     <div class="row justify-content-evenly px-md-0 px-5">
         <div class="facilityCard col-md-2 text-center rounded shadow py-4">
