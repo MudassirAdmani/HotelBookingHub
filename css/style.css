@@ -8,6 +8,11 @@
 .h-font {
   font-family: "Merienda", cursive;
 }
+.h-line {
+  width: 150px;
+  height: 2px;
+  margin: 0 auto;
+}
 .btn-orange {
   background-color: #de9549;
   transition: 0.3s;

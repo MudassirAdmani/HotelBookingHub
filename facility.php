@@ -18,12 +18,6 @@
     <link rel="stylesheet" href="./css/style.css">
     <!-- Navbar -->
     <link rel="stylesheet" href="./css/navbar.css">
-    <!-- register-login -->
-    <link rel="stylesheet" href="./css/register-login.css">
-    <!-- Availability -->
-    <link rel="stylesheet" href="./css/availability.css">
-    <!-- Facility -->
-    <link rel="stylesheet" href="./css/facility.css">
 </head>
 
 <body class="bg-light">
@@ -31,30 +25,29 @@
     <?php
     include('./partials/navbar.php');
     ?>
-    <!-- Carousel -->
-    <?php
-    include('./partials/carousel.php');
-    ?>
-    <!-- Availability Form -->
-    <?php
-    include('./partials/availability.php');
-    ?>
-    <!-- Our Rooms -->
-    <?php
-    include('./partials/rooms.php');
-    ?>
-    <!-- Our Facilities -->
-    <?php
-    include('./partials/facilities.php');
-    ?>
-    <!-- Our Testimonials -->
-    <?php
-    include('./partials/testimonials.php');
-    ?>
-    <!-- Reach Us -->
-    <?php
-    include('./partials/reach.php');
-    ?>
+    <div class="my-5 px-4">
+        <h2 class="fw-bold text-center h-font">Our Facilities</h2>
+        <div class="h-line btn-purple"></div>
+        <p class="text-center mt-3">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+            Est quia sit magnam <br> ducimus accusantium doloremque omnis
+            autem ratione odit tenetur.
+        </p>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 col-md-6 mb-5 px-4">
+                <div class="bg-white rounded shadow p-4 border-top border-4 border-dark">
+                    <img src="./images/wifi-1.png">
+                    <h5>Wifi</h5>
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                        Corrupti dolore similique dolorum necessitatibus, natus eum esse!
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
     <!-- Footer -->
     <?php
     include('./partials/footer.php');
@@ -64,10 +57,6 @@
     <!-- Swiper -->
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
     <!-- JS -->
-    <!-- Carousel -->
-    <script src="./js/carousel.js"></script>
-    <!-- Testimonial -->
-    <script src="./js/testimonial.js"></script>
 </body>
 
 </html>
