@@ -33,11 +33,15 @@
     ?>
     <!-- About -->
     <?php
-    include('./partials/about.php');
+    include('./partials/aboutus.php');
     ?>
     <!-- Features -->
     <?php
     include('./partials/features.php');
+    ?>
+    <!-- Management -->
+    <?php
+    include('./partials/management.php');
     ?>
     <!-- Reach -->
     <?php
