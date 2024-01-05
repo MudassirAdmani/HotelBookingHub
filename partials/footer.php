@@ -2,9 +2,12 @@
     <div class="row justify-content-center">
         <div class="col-lg-4 p-4 text-white">
             <h3 class="mb-3 h-font fs-3">HotelBookingHub</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere, omnis dolorem perspiciatis, nesciunt
-                est dignissimos beatae repudiandae alias sint dolorum impedit quos doloribus nulla. Maiores iure natus
-                quas? Laborum, nostrum!</p>
+            <p>
+                Welcome to HotelBookingHub, your premier destination for seamless and
+                convenient hotel management. At HotelBookingHub, we are dedicated to
+                providing a user-friendly platform that simplifies the hotel booking
+                process for both travelers and hotel owners.
+            </p>
         </div>
         <div class="col-lg-2 p-4 text-white">
             <h5 class="mb-3 h-font fs-3">Links</h5>
