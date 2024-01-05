@@ -30,6 +30,13 @@
 .text-purple {
   color: #b76282;
 }
-.border-orange{
+.border-orange {
   border-top: 4px solid #de9549;
+}
+.Card {
+  transition: 0.3s;
+}
+.Card:hover {
+  margin-top: -10px;
+  margin-bottom: 10px;
 }

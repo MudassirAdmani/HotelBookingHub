@@ -1,10 +1,6 @@
 <div class="my-5 px-4">
     <h2 class="fw-bold h-font text-center">About Us</h2>
     <div class="h-line btn-purple"></div>
-    <p class="text-center mt-3">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum <br>
-        sapiente quos unde consectetur blanditiis praesentium!
-    </p>
 </div>
 <div class="container">
     <div class="row">
