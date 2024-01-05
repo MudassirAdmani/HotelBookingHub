@@ -5,8 +5,21 @@
 <div class="container p-4">
     <div class="row">
         <div class="col-lg-6">
-            <img src="./images/hotel-2.png" alt="">
+            <img src="./images/hotel-2.png" class="img-fluid" alt="">
         </div>
-        <div class="col-lg-6"></div>
+        <div class="col-lg-6">
+            <form class="bg-white p-4 shadow rounded">
+                <label class="mt-1 form-label">Name:</label>
+                <input type="text" class="form-control">
+                <label class="mt-1 form-label">Email:</label>
+                <input type="text" class="form-control">
+                <label class="mt-1 form-label">Subject:</label>
+                <input type="text" class="form-control">
+                <label class="form-label">Message:</label>
+                <input type="text" class="form-control">
+                <br>
+                <button class="py-1 px-3 border-0 rounded-1 btn-orange text-white">Submit</button>
+            </form>
+        </div>
     </div>
 </div>
