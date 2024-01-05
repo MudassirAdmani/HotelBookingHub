@@ -19,7 +19,7 @@
                     <a class="nav-link me-2" href="#">Rooms</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link me-2" href="#">Contact</a>
+                    <a class="nav-link me-2" href="contact.php">Contact</a>
                 </li>
             </ul>
             <div class="d-flex">
