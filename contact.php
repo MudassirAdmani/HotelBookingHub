@@ -29,6 +29,14 @@
     <?php
     include('./partials/carousel.php');
     ?>
+    <!-- Contact Us -->
+    <?php
+    include('./partials/contactus.php');
+    ?>
+    <!-- Reach -->
+    <?php
+    include('./partials/reach.php');
+    ?>
     <!-- Footer -->
     <?php
     include('./partials/footer.php');
