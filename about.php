@@ -58,6 +58,8 @@
     <!-- JS -->
     <!-- Carousel -->
     <script src="./js/carousel.js"></script>
+    <!-- Management -->
+    <script src="./js/management.js"></script>
 </body>
 
 </html>
