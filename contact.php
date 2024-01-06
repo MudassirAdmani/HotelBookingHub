@@ -37,6 +37,10 @@
     <?php
     include('./partials/form.php');
     ?>
+    <!-- Testimonial -->
+    <?php
+    include('./partials/faq.php');
+    ?>
     <!-- Reach -->
     <?php
     include('./partials/reach.php');
@@ -54,6 +58,8 @@
     <script src="./js/carousel.js"></script>
     <!-- Form -->
     <script src="./js/form.js"></script>
+    <!-- FAQ -->
+    <script src="./js/faq.js"></script>
 </body>
 
 </html>
