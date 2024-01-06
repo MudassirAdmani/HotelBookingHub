@@ -37,19 +37,6 @@
                         </div>
                         <div class="row">
                             <div class="col-md-6 mb-3">
-                                <label class="form-label text-white">Gender</label>
-                                <select class="form-control shadow-none">
-                                    <option value="male">Male</option>
-                                    <option value="female">Female</option>
-                                </select>
-                            </div>
-                            <div class="col-md-6 mb-3">
-                                <label class="form-label text-white">Date of Birth</label>
-                                <input type="date" class="form-control shadow-none">
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-6 mb-3">
                                 <label class="form-label text-white">Password</label>
                                 <input type="password" placeholder="Enter Password" class="form-control shadow-none">
                             </div>

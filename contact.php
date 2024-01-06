@@ -33,6 +33,10 @@
     <?php
     include('./partials/contactus.php');
     ?>
+    <!-- Form -->
+    <?php
+    include('./partials/form.php');
+    ?>
     <!-- Reach -->
     <?php
     include('./partials/reach.php');
@@ -48,6 +52,8 @@
     <!-- JS -->
     <!-- Carousel -->
     <script src="./js/carousel.js"></script>
+    <!-- Form -->
+    <script src="./js/form.js"></script>
 </body>
 
 </html>
