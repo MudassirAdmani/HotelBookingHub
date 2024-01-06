@@ -2,8 +2,9 @@ var swiper = new Swiper(".formSwiper", {
   effect: "flip",
   grabCursor: true,
   loop: true,
-  shadow: false,
-  slideShadows: false,
+  flipEffect: {
+    slideShadows: false,
+  },
   pagination: {
     el: ".swiper-pagination",
   },
