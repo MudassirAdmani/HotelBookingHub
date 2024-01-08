@@ -4,7 +4,7 @@
 </div>
 <div class="container">
     <div class="row">
-        <div class="col-lg-3">
+        <div class="col-lg-3 col-md-12 mb-4 mb-lg-0">
             <nav class="navbar navbar-expand-lg navbar-light bg-white rounded shadow">
                 <div class="container-fluid flex-lg-column align-items-stretch">
                     <h3 class="mt-2 text-center">Filters</h3>
@@ -12,14 +12,14 @@
                         <span class="navbar-toggler-icon" type="button" data-bs-toggle="collapse" data-bs-target="#filterDropdown"></span>
                     </button>
                     <div class="collapse navbar-collapse flex-column mt-2 align-items-stretch" id="filterDropdown">
-                        <div class="p-3 rounded mb-3">
+                        <div class="border bg-light p-3 rounded mb-3">
                             <h5 class="mb-3">Availability</h5>
                             <label class="form-label">Check In</label>
                             <input type="date" class="form-control shadow-none">
                             <label class="form-label">Check Out</label>
                             <input type="date" class="form-control shadow-none">
                         </div>
-                        <div class="p-3 rounded mb-3">
+                        <div class="border bg-light p-3 rounded mb-3">
                             <h5 class="mb-3">Facilities</h5>
                             <div class="mb-2">
                                 <input type="checkbox" id="f1" class="form-check-input shadow-none me-1">
@@ -34,9 +34,25 @@
                                 <label for="f3" class="form-check-label">Balcony</label>
                             </div>
                         </div>
+                        <div class="border bg-light p-3 rounded mb-3">
+                            <h5 class="mb-3">Guests</h5>
+                            <div class="d-flex">
+                                <div class="me-3">
+                                    <label class="form-label">Adults</label>
+                                    <input type="number" class="form-control shadow-none">
+                                </div>
+                                <div>
+                                    <label class="form-label">Childrens</label>
+                                    <input type="number" class="form-control shadow-none">
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </nav>
+        </div>
+        <div class="col-lg-9 px-4 col-md-12">
+            
         </div>
     </div>
 </div>
