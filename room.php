@@ -18,8 +18,6 @@
     <link rel="stylesheet" href="./css/style.css">
     <!-- Navbar -->
     <link rel="stylesheet" href="./css/navbar.css">
-    <!-- About -->
-    <link rel="stylesheet" href="./css/about.css">
 </head>
 
 <body class="bg-light">
@@ -31,17 +29,9 @@
     <?php
     include('./partials/carousel.php');
     ?>
-    <!-- About -->
+    <!-- Our Rooms -->
     <?php
-    include('./partials/aboutus.php');
-    ?>
-    <!-- Features -->
-    <?php
-    include('./partials/features.php');
-    ?>
-    <!-- Management -->
-    <?php
-    include('./partials/management.php');
+    include('./partials/ourroom.php');
     ?>
     <!-- Reach -->
     <?php
