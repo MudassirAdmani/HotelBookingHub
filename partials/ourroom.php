@@ -22,8 +22,16 @@
                         <div class="p-3 rounded mb-3">
                             <h5 class="mb-3">Facilities</h5>
                             <div class="mb-2">
-                                <label class="form-label">Check In</label>
-                                <input type="date" class="form-control shadow-none">
+                                <input type="checkbox" id="f1" class="form-check-input shadow-none me-1">
+                                <label for="f1" class="form-check-label">Buffet</label>
+                            </div>
+                            <div class="mb-2">
+                                <input type="checkbox" id="f2" class="form-check-input shadow-none me-1">
+                                <label for="f2" class="form-check-label">Party</label>
+                            </div>
+                            <div class="mb-2">
+                                <input type="checkbox" id="f3" class="form-check-input shadow-none me-1">
+                                <label for="f3" class="form-check-label">Balcony</label>
                             </div>
                         </div>
                     </div>
