@@ -99,10 +99,10 @@
                             </span>
                         </div>
                     </div>
-                    <div class="col-md-2">
+                    <div class="col-md-2 text-center">
                         <h6 class="mb-4">200$ per night</h6>
-                        <a href="#" class="py-1 text-decoration-none px-3 border-0 rounded-1 btn-orange text-white mb-2">Book Now</a>
-                        <a href="#" class="py-1 text-decoration-none px-3 border-0 rounded-1 btn-purple text-white">See Details</a>
+                        <a href="#" class="py-1 px-3 btn btn-orange text-white mb-2 w-100">Book Now</a>
+                        <a href="#" class="py-1 px-3 btn btn-orange text-white w-100">See Details</a>
                     </div>
                 </div>
             </div>
