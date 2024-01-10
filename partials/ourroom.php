@@ -52,8 +52,8 @@
             </nav>
         </div>
         <div class="col-lg-9 px-4 col-md-12">
-            <div class="card mb-3" style="max-width: 540px;">
-                <div class="row g-0">
+            <div class="card mb-4">
+                <div class="row g-0 p-3 align-items-center">
                     <div class="col-md-4">
                         <img src="..." class="img-fluid rounded-start" alt="...">
                     </div>
