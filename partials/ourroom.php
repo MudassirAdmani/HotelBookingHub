@@ -53,16 +53,56 @@
         </div>
         <div class="col-lg-9 px-4 col-md-12">
             <div class="card mb-4">
-                <div class="row g-0 p-3 align-items-center">
-                    <div class="col-md-4">
-                        <img src="..." class="img-fluid rounded-start" alt="...">
+                <div class="row g-0 align-items-center">
+                    <div class="col-md-5">
+                        <img src="./images/room-1.png" style="height: 230px; object-fit:cover;" class="w-100 rounded" alt="...">
                     </div>
-                    <div class="col-md-8">
-                        <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
-                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                    <div class="col-md-5">
+                        <h5 class="mb-3">Simple Room</h5>
+                        <div class="features mb-3">
+                            <h6 class="mb-1">Features</h6>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                2 Rooms
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                1 Bathroom
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                1 Balcony
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                Breakfast
+                            </span>
                         </div>
+                        <div class="facilities mb-3">
+                            <h6 class="mb-1">Facilities</h6>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                Wifi
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                Smart TV
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                AC
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                Heater
+                            </span>
+                        </div>
+                        <div class="guests mb-3">
+                            <h6 class="mb-1">Guests</h6>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                5 Adults
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                4 Children
+                            </span>
+                        </div>
+                    </div>
+                    <div class="col-md-2">
+                        <h6 class="mb-4">200$ per night</h6>
+                        <a href="#" class="py-1 text-decoration-none px-3 border-0 rounded-1 btn-orange text-white mb-2">Book Now</a>
+                        <a href="#" class="py-1 text-decoration-none px-3 border-0 rounded-1 btn-purple text-white">See Details</a>
                     </div>
                 </div>
             </div>
