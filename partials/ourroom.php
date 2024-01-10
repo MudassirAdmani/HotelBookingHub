@@ -4,7 +4,7 @@
 </div>
 <div class="container">
     <div class="row">
-        <div class="col-lg-3 col-md-12 mb-4 mb-lg-0">
+        <div class="col-lg-3 col-md-12 mb-4 mb-lg-0 px-lg-0">
             <nav class="navbar navbar-expand-lg navbar-light bg-white rounded shadow">
                 <div class="container-fluid flex-lg-column align-items-stretch">
                     <h3 class="mt-2 text-center">Filters</h3>
@@ -52,12 +52,12 @@
             </nav>
         </div>
         <div class="col-lg-9 px-4 col-md-12">
-            <div class="card mb-4">
-                <div class="row g-0 align-items-center">
-                    <div class="col-md-5">
+            <div class="card mb-4 border-0 shadow">
+                <div class="row p-3 g-0 align-items-center">
+                    <div class="col-md-5 mb-md-0 mb-3">
                         <img src="./images/room-1.png" style="height: 230px; object-fit:cover;" class="w-100 rounded" alt="...">
                     </div>
-                    <div class="col-md-5">
+                    <div class="col-md-5 px-md-3 px-0">
                         <h5 class="mb-3">Simple Room</h5>
                         <div class="features mb-3">
                             <h6 class="mb-1">Features</h6>
@@ -89,7 +89,7 @@
                                 Heater
                             </span>
                         </div>
-                        <div class="guests mb-3">
+                        <div class="guests">
                             <h6 class="mb-1">Guests</h6>
                             <span class="badge rounded-pill bg-light text-dark text-wrap">
                                 5 Adults
@@ -99,7 +99,115 @@
                             </span>
                         </div>
                     </div>
-                    <div class="col-md-2 text-center">
+                    <div class="col-md-2 mt-3 mt-md-0 text-center">
+                        <h6 class="mb-4">200$ per night</h6>
+                        <a href="#" class="py-1 px-3 btn btn-orange text-white mb-2 w-100">Book Now</a>
+                        <a href="#" class="py-1 px-3 btn btn-orange text-white w-100">See Details</a>
+                    </div>
+                </div>
+            </div>
+            <div class="card mb-4 border-0 shadow">
+                <div class="row p-3 g-0 align-items-center">
+                    <div class="col-md-5 mb-md-0 mb-3">
+                        <img src="./images/room-1.png" style="height: 230px; object-fit:cover;" class="w-100 rounded" alt="...">
+                    </div>
+                    <div class="col-md-5 px-md-3 px-0">
+                        <h5 class="mb-3">Simple Room</h5>
+                        <div class="features mb-3">
+                            <h6 class="mb-1">Features</h6>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                2 Rooms
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                1 Bathroom
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                1 Balcony
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                Breakfast
+                            </span>
+                        </div>
+                        <div class="facilities mb-3">
+                            <h6 class="mb-1">Facilities</h6>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                Wifi
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                Smart TV
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                AC
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                Heater
+                            </span>
+                        </div>
+                        <div class="guests">
+                            <h6 class="mb-1">Guests</h6>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                5 Adults
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                4 Children
+                            </span>
+                        </div>
+                    </div>
+                    <div class="col-md-2 mt-3 mt-md-0 text-center">
+                        <h6 class="mb-4">200$ per night</h6>
+                        <a href="#" class="py-1 px-3 btn btn-orange text-white mb-2 w-100">Book Now</a>
+                        <a href="#" class="py-1 px-3 btn btn-orange text-white w-100">See Details</a>
+                    </div>
+                </div>
+            </div>
+            <div class="card mb-4 border-0 shadow">
+                <div class="row p-3 g-0 align-items-center">
+                    <div class="col-md-5 mb-md-0 mb-3">
+                        <img src="./images/room-1.png" style="height: 230px; object-fit:cover;" class="w-100 rounded" alt="...">
+                    </div>
+                    <div class="col-md-5 px-md-3 px-0">
+                        <h5 class="mb-3">Simple Room</h5>
+                        <div class="features mb-3">
+                            <h6 class="mb-1">Features</h6>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                2 Rooms
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                1 Bathroom
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                1 Balcony
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                Breakfast
+                            </span>
+                        </div>
+                        <div class="facilities mb-3">
+                            <h6 class="mb-1">Facilities</h6>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                Wifi
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                Smart TV
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                AC
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                Heater
+                            </span>
+                        </div>
+                        <div class="guests">
+                            <h6 class="mb-1">Guests</h6>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                5 Adults
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                4 Children
+                            </span>
+                        </div>
+                    </div>
+                    <div class="col-md-2 mt-3 mt-md-0 text-center">
                         <h6 class="mb-4">200$ per night</h6>
                         <a href="#" class="py-1 px-3 btn btn-orange text-white mb-2 w-100">Book Now</a>
                         <a href="#" class="py-1 px-3 btn btn-orange text-white w-100">See Details</a>
