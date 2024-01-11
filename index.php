@@ -25,36 +25,22 @@
 </head>
 
 <body class="bg-light">
-    <!-- Navbar -->
     <?php
+    // Navbar
     include('./partials/navbar.php');
-    ?>
-    <!-- Carousel -->
-    <?php
+    // Carousel
     include('./partials/carousel.php');
-    ?>
-    <!-- Availability Form -->
-    <?php
+    // Availability Form
     include('./partials/availability.php');
-    ?>
-    <!-- Our Rooms -->
-    <?php
+    // Our Rooms
     include('./partials/rooms.php');
-    ?>
-    <!-- Our Facilities -->
-    <?php
+    // Our Facilities
     include('./partials/facilities.php');
-    ?>
-    <!-- Our Testimonials -->
-    <?php
+    // Our Testimonials
     include('./partials/testimonials.php');
-    ?>
-    <!-- Reach Us -->
-    <?php
+    // Reach Us
     include('./partials/reach.php');
-    ?>
-    <!-- Footer -->
-    <?php
+    // Footer
     include('./partials/footer.php');
     ?>
     <!-- Bootstrap -->

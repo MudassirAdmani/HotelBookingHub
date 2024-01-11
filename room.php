@@ -21,24 +21,16 @@
 </head>
 
 <body class="bg-light">
-    <!-- Navbar -->
     <?php
+    // Navbar
     include('./partials/navbar.php');
-    ?>
-    <!-- Carousel -->
-    <?php
+    // Carousel
     include('./partials/carousel.php');
-    ?>
-    <!-- Our Rooms -->
-    <?php
+    // <!-- Rooms
     include('./partials/ourroom.php');
-    ?>
-    <!-- Reach -->
-    <?php
+    // Reach
     include('./partials/reach.php');
-    ?>
-    <!-- Footer -->
-    <?php
+    // Footer
     include('./partials/footer.php');
     ?>
     <!-- Bootstrap -->

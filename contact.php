@@ -21,32 +21,20 @@
 </head>
 
 <body class="bg-light">
-    <!-- Navbar -->
     <?php
+    // Navbar
     include('./partials/navbar.php');
-    ?>
-    <!-- Carousel -->
-    <?php
+    // Carousel
     include('./partials/carousel.php');
-    ?>
-    <!-- Contact Us -->
-    <?php
+    // <!-- Us
     include('./partials/contactus.php');
-    ?>
-    <!-- Form -->
-    <?php
+    // Form
     include('./partials/form.php');
-    ?>
-    <!-- Testimonial -->
-    <?php
+    // Testimonial
     include('./partials/faq.php');
-    ?>
-    <!-- Reach -->
-    <?php
+    // Reach
     include('./partials/reach.php');
-    ?>
-    <!-- Footer -->
-    <?php
+    // Footer
     include('./partials/footer.php');
     ?>
     <!-- Bootstrap -->

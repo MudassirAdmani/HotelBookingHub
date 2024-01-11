@@ -23,32 +23,20 @@
 </head>
 
 <body class="bg-light">
-    <!-- Navbar -->
     <?php
+    // Navbar
     include('./partials/navbar.php');
-    ?>
-    <!-- Carousel -->
-    <?php
+    // Carousel
     include('./partials/carousel.php');
-    ?>
-    <!-- About -->
-    <?php
+    // About
     include('./partials/aboutus.php');
-    ?>
-    <!-- Features -->
-    <?php
+    // Features
     include('./partials/features.php');
-    ?>
-    <!-- Management -->
-    <?php
+    // Management
     include('./partials/management.php');
-    ?>
-    <!-- Reach -->
-    <?php
+    // Reach
     include('./partials/reach.php');
-    ?>
-    <!-- Footer -->
-    <?php
+    // Footer
     include('./partials/footer.php');
     ?>
     <!-- Bootstrap -->
