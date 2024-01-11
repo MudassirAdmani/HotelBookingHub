@@ -160,7 +160,7 @@
                     </div>
                 </div>
             </div>
-            <div class="card mb-4 border-0 shado">
+            <div class="card mb-4 border-0 shadow">
                 <div class="row p-3 g-0 align-items-center">
                     <div class="col-md-5 mb-md-0 mb-3">
                         <img src="./images/room-1.png" style="height: 230px; object-fit:cover;" class="w-100 rounded" alt="...">
