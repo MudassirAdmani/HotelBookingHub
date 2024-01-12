@@ -66,3 +66,6 @@
     </div>
 </div>
 <h6 class="text-center bg-dark text-white p-3 m-0">Copyrights @ Mudassir Admani</h6>
+<?php
+include('include/cdns/scripts.php');
+?>
