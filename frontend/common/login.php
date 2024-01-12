@@ -1,7 +1,7 @@
 <div class="modal fade" id="loginModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content loginModal">
-            <form>
+            <form method="post" action="backend/register.php">
                 <div class="modal-header">
                     <h5 class="modal-title d-flex text-white align-items-center">
                         <i class="bi bi-person-circle fs-3 me-2"></i>
@@ -12,14 +12,14 @@
                 <div class="modal-body">
                     <div class="mb-3">
                         <label class="form-label text-white">Email address</label>
-                        <input type="email" placeholder="Enter Email" class="form-control shadow-none">
+                        <input type="email" placeholder="Enter Email" name="logEmail" class="form-control shadow-none" required>
                     </div>
                     <div class="mb-3">
                         <label class="form-label text-white">Password</label>
-                        <input type="password" placeholder="Enter Password" class="form-control shadow-none">
+                        <input type="password" placeholder="Enter Password" name="logPass" class="form-control shadow-none" required>
                     </div>
                     <div class="d-flex align-items-center justify-content-between mb-2">
-                        <button type="submit" class="py-1 px-3 border-0 rounded-1 btn-orange text-white">Login</button>
+                        <button type="submit" name="logBtn" class="py-1 px-3 border-0 rounded-1 btn-orange text-white">Login</button>
                         <a href="javascript: void(0)" class="text-white text-decoration-none">Forgot Password?</a>
                     </div>
                 </div>

@@ -1,3 +1,6 @@
+<?php
+include('include/database/db.php');
+?>
 <nav class="navbar navbar-expand-lg navbar-light bg-white px-lg-3 py-lg-2 shadow-sm sticky-top">
     <div class="container-fluid">
         <a class="navbar-brand me-5 d-flex align-items-center fw-bold" href="index.php">

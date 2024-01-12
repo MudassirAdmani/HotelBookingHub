@@ -24,7 +24,7 @@
 /* Register / Login */
 .registerModal,
 .loginModal {
-  background-image: url("../images/navbar/2.png");
+  background-image: url("../../images/navbar/2.png");
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }

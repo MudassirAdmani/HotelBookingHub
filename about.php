@@ -8,7 +8,6 @@
     <!-- Links -->
     <?php
     include('./include/cdns/links.php');
-    include('./include/cdns/swiper/swipercss.php');
     ?>
     <!-- Swiper -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
