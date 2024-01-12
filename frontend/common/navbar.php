@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-white px-lg-3 py-lg-2 shadow-sm sticky-top">
     <div class="container-fluid">
         <a class="navbar-brand me-5 d-flex align-items-center fw-bold" href="index.php">
-            <img class="img-fluid" src="images/logo.png" alt="hotelbookinghub-logo">
+            <img class="img-fluid" src="images/logo/logo.png" alt="hotelbookinghub-logo">
             <span class="NavBrand h-font fs-4">HotelBookingHub</span>
         </a>
         <button class="navbar-toggler shadow-none" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

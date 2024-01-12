@@ -7,33 +7,31 @@
     <title>HotelBookingHub.com - Contact</title>
     <!-- Links -->
     <?php
-    include('./include/links.php');
+    include('./include/cdns/links.php');
     ?>
+    <!-- Swiper -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
 </head>
 
 <body class="bg-light">
     <?php
-    // Navbar
-    include('./partials/navbar.php');
-    // Carousel
-    include('./partials/carousel.php');
-    // <!-- Us
-    include('./partials/contactus.php');
+    // Navbar and Carousel
+    include('./frontend/common/upper.php');
+    // Contact Us
+    include('./frontend/contact/contactus.php');
     // Form
-    include('./partials/form.php');
+    include('./frontend/contact/form.php');
     // Testimonial
-    include('./partials/faq.php');
-    // Reach
-    include('./partials/reach.php');
-    // Footer
-    include('./partials/footer.php');
-    // Scripts
-    include('./include/scripts.php');
+    include('./frontend/contact/faq.php');
+    // Reach, Footer and Script
+    include('./frontend/common/lower.php');
+    // Swiper
+    include('./include/cdns/swiper.php');
     ?>
     <!-- Form -->
-    <script src="./js/form.js"></script>
+    <script src="./js/home/form.js"></script>
     <!-- FAQ -->
-    <script src="./js/faq.js"></script>
+    <script src="./js/home/faq.js"></script>
 </body>
 
 </html>

@@ -7,7 +7,7 @@
             <div class="swiper testimonialSwiper">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide d-flex align-items-center justify-content-center">
-                        <img src="./images/man-1.png" />
+                        <img src="./images/testimonials/man-1.png" />
                         <div>
                             <h4 class="m-2">John Doe</h4>
                             <p class="m-2 d-none d-lg-block">
@@ -23,7 +23,7 @@
                         </div>
                     </div>
                     <div class="swiper-slide d-flex align-items-center justify-content-center">
-                        <img src="./images/man-2.png" />
+                        <img src="./images/testimonials/man-2.png" />
                         <div>
                             <h4 class="m-2">Malik Zubair</h4>
                             <p class="m-2 d-none d-lg-block">
@@ -41,7 +41,7 @@
                         </div>
                     </div>
                     <div class="swiper-slide d-flex align-items-center justify-content-center">
-                        <img src="./images/man-3.png" />
+                        <img src="./images/testimonials/man-3.png" />
                         <div>
                             <h4 class="m-2">Johnny Karlos</h4>
                             <p class="m-2 d-none d-lg-block">
@@ -59,7 +59,7 @@
                         </div>
                     </div>
                     <div class="swiper-slide d-flex align-items-center justify-content-center">
-                        <img src="./images/woman-1.png" />
+                        <img src="./images/testimonials/woman-1.png" />
                         <div>
                             <h4 class="m-2">Jane Smith</h4>
                             <p class="m-2 d-none d-lg-block">

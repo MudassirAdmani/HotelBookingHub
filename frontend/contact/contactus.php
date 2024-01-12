@@ -5,7 +5,7 @@
 <div class="container p-4">
     <div class="row">
         <div class="col-lg-6">
-            <img src="./images/hotel-2.png" class="img-fluid" alt="">
+            <img src="./images/contact/hotel-2.png" class="img-fluid" alt="">
         </div>
         <div class="col-lg-6">
             <form class="bg-white p-4 shadow rounded">

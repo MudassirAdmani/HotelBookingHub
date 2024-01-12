@@ -7,37 +7,35 @@
     <title>HotelBookingHub.com - Home</title>
     <!-- Links -->
     <?php
-    include('./include/links.php');
+    include('./include/cdns/links.php');
     ?>
+    <!-- Swiper -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
     <!-- Availability -->
-    <link rel="stylesheet" href="./css/availability.css">
+    <link rel="stylesheet" href="./css/home/availability.css">
     <!-- Facility -->
-    <link rel="stylesheet" href="./css/facility.css">
+    <link rel="stylesheet" href="./css/home/facility.css">
 </head>
 
 <body class="bg-light">
     <?php
-    // Navbar
-    include('./partials/navbar.php');
-    // Carousel
-    include('./partials/carousel.php');
+    // Navbar and Carousel
+    include('./frontend/common/upper.php');
     // Availability Form
-    include('./partials/availability.php');
+    include('./frontend/home/availability.php');
     // Our Rooms
-    include('./partials/rooms.php');
+    include('./frontend/home/rooms.php');
     // Our Facilities
-    include('./partials/facilities.php');
+    include('./frontend/home/facilities.php');
     // Our Testimonials
-    include('./partials/testimonials.php');
-    // Reach Us
-    include('./partials/reach.php');
-    // Footer
-    include('./partials/footer.php');
-    // Scripts
-    include('./include/scripts.php');
+    include('./frontend/home/testimonials.php');
+    // Reach, Footer and Script
+    include('./frontend/common/lower.php');
+    // Swiper
+    include('./include/cdns/swiper.php');
     ?>
     <!-- Testimonial -->
-    <script src="./js/testimonial.js"></script>
+    <script src="./js/home/testimonial.js"></script>
 </body>
 
 </html>

@@ -5,7 +5,7 @@
 <div class="container">
     <div class="row">
         <div class="col-lg-5">
-            <img src="./images/logo1.png" class="aboutImg" alt="">
+            <img src="./images/logo/logo1.png" class="aboutImg" alt="">
         </div>
         <div class="col-lg-2"></div>
         <div class="col-lg-5 mt-4 mt-lg-0 align-self-center">

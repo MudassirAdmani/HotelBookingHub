@@ -4,7 +4,7 @@
     <div class="row">
         <div class="col-lg-4 col-md-6 my-3">
             <div class="card border-0 shadow" style="max-width: 350px; margin: auto;">
-                <img src="./images/room-1.png" style="height: 300px; object-fit: cover;" class="card-img-top" alt="room-1-image">
+                <img src="./images/rooms/room-1.png" style="height: 300px; object-fit: cover;" class="card-img-top" alt="room-1-image">
                 <div class="card-body">
                     <h5>Simple Room</h5>
                     <h6 class="mb-4">200$ per night</h6>
@@ -57,7 +57,7 @@
         </div>
         <div class="col-lg-4 col-md-6 my-3">
             <div class="card border-0 shadow" style="max-width: 350px; margin: auto;">
-                <img src="./images/room-2.png" style="height: 300px; object-fit: cover;" class="card-img-top" alt="room-1-image">
+                <img src="./images/rooms/room-2.png" style="height: 300px; object-fit: cover;" class="card-img-top" alt="room-1-image">
                 <div class="card-body">
                     <h5>Simple Room</h5>
                     <h6 class="mb-4">200$ per night</h6>
@@ -110,7 +110,7 @@
         </div>
         <div class="col-lg-4 col-md-6 my-3">
             <div class="card border-0 shadow" style="max-width: 350px; margin: auto;">
-                <img src="./images/room-3.png" style="height: 300px; object-fit: cover;" class="card-img-top" alt="room-1-image">
+                <img src="./images/rooms/room-3.png" style="height: 300px; object-fit: cover;" class="card-img-top" alt="room-1-image">
                 <div class="card-body">
                     <h5>Simple Room</h5>
                     <h6 class="mb-4">200$ per night</h6>
@@ -163,7 +163,7 @@
         </div>
         <div class="col-lg-4 col-md-6 my-3">
             <div class="card border-0 shadow" style="max-width: 350px; margin: auto;">
-                <img src="./images/room-4.png" style="height: 300px; object-fit: cover;" class="card-img-top" alt="room-1-image">
+                <img src="./images/rooms/room-4.png" style="height: 300px; object-fit: cover;" class="card-img-top" alt="room-1-image">
                 <div class="card-body">
                     <h5>Simple Room</h5>
                     <h6 class="mb-4">200$ per night</h6>
@@ -216,7 +216,7 @@
         </div>
         <div class="col-lg-4 col-md-6 my-3">
             <div class="card border-0 shadow" style="max-width: 350px; margin: auto;">
-                <img src="./images/room-5.png" style="height: 300px; object-fit: cover;" class="card-img-top" alt="room-1-image">
+                <img src="./images/rooms/room-5.png" style="height: 300px; object-fit: cover;" class="card-img-top" alt="room-1-image">
                 <div class="card-body">
                     <h5>Simple Room</h5>
                     <h6 class="mb-4">200$ per night</h6>
@@ -269,7 +269,7 @@
         </div>
         <div class="col-lg-4 col-md-6 my-3">
             <div class="card border-0 shadow" style="max-width: 350px; margin: auto;">
-                <img src="./images/room-6.png" style="height: 300px; object-fit: cover;" class="card-img-top" alt="room-1-image">
+                <img src="./images/rooms/room-6.png" style="height: 300px; object-fit: cover;" class="card-img-top" alt="room-1-image">
                 <div class="card-body">
                     <h5>Simple Room</h5>
                     <h6 class="mb-4">200$ per night</h6>

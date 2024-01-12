@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HotelBookingHub.com - Rooms</title>
+    <title>HotelBookingHub.com - Dashboard</title>
     <?php
     // Links
     include('./include/links.php');

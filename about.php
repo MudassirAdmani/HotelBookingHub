@@ -7,30 +7,29 @@
     <title>HotelBookingHub.com - About</title>
     <!-- Links -->
     <?php
-    include('./include/links.php');
+    include('./include/cdns/links.php');
+    include('./include/cdns/swiper/swipercss.php');
     ?>
+    <!-- Swiper -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
     <!-- About -->
-    <link rel="stylesheet" href="./css/about.css">
+    <link rel="stylesheet" href="./css/home/about.css">
 </head>
 
 <body class="bg-light">
     <?php
-    // Navbar
-    include('./partials/navbar.php');
-    // Carousel
-    include('./partials/carousel.php');
+    // Navbar and Carousel
+    include('./frontend/common/upper.php');
     // About
-    include('./partials/aboutus.php');
+    include('./frontend/about/aboutus.php');
     // Features
-    include('./partials/features.php');
+    include('./frontend/about/features.php');
     // Management
-    include('./partials/management.php');
-    // Reach
-    include('./partials/reach.php');
-    // Footer
-    include('./partials/footer.php');
-    // Scripts
-    include('./include/scripts.php');
+    include('./frontend/about/management.php');
+    // Reach, Footer and Script
+    include('./frontend/common/lower.php');
+    // Swiper
+    include('./include/cdns/swiper.php');
     ?>
 </body>
 
